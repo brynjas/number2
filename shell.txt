@@ -1,0 +1,1 @@
+python Compiler.py < program.l | python Interpreter.py
